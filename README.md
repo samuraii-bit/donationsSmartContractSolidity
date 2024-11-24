@@ -1,4 +1,4 @@
-This project wa created as a test task for getting a job.
+This project was created as a test task for getting a job.
 
 npx hardhat compile  
 npx hardhat test  
